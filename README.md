@@ -1,4 +1,4 @@
-# coursework
+# coursework-playfair-encryption
 coursework
 
 Реализация шифрования методом Плейфера
